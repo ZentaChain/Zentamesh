@@ -1,5 +1,5 @@
-# Zentamesh-rust
+# Zentameshnet-rust
 Registration of the Zentanodes in the Zentanetwork.
-People who own a node will be able to register their z-nodes within the blockchain for the monetary rewards.
+Zentanode owners will be able to register their Z-nodes within the network for the monetary rewards.
 
 ---
