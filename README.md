@@ -8,6 +8,6 @@ Zentameshnet is a network topology in which each node relays data for the networ
 
 * For more details about Zentameshnet, please visit: [DocHub](https://docs.zentachain.io/zentamesh)
 
- Copyright all rights reserved by [Zentachain](https://zentachain.io/)
+ All Copyrights are reserved by [Zentachain](https://zentachain.io/)
 
 ---
